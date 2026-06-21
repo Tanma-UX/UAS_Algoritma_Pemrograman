@@ -45,6 +45,15 @@ const assignments = [
         date: "18 Mei 2026",
         link: "https://drive.google.com/file/d/1jr0LSTVFoPrNets3TNh0uSxqJIoJGeN5/view?usp=sharing"
     },
+        {
+        id: 6,
+        title: "Tugas 6",
+        category: "tugas6",
+        categoryLabel: "Pertemuan 13",
+        description: "Menjelaskan tentang array, jenis-jenis array dan tipe data untuk mendeklarasikan array.",
+        date: "08 juni 2026",
+        link: "https://drive.google.com/file/d/1GI1iTiJppAIR2mLMDRBcvYqg88_lPjFb/view?usp=drive_link"
+    },
 ];
 
 // ELEMEN DOM
